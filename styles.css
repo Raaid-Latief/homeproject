@@ -1,0 +1,306 @@
+
+/*CSS Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    overflow-x: hidden;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+  
+    transform: rotate(354deg)
+
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #00fbff;
+
+}
+
+
+
+/* HEADINGS STYLES */
+
+.about-head,.passions-head{
+    color: #00fbff;
+}
+
+h2,h4,h5{
+    color: #00fbff;
+
+}
+#logo,.logo{
+    font-family: 'Great Vibes', cursive;
+ 
+    transform: rotate(354deg);
+
+}
+
+.nav-link{
+    color: #00fbff;
+}
+
+
+#home{
+    background-color: aqua;
+    padding: 15%;
+ background-image: url(./swan-1868697_1920.jpg);
+}
+
+
+#title-name{
+    font-family: 'Great Vibes', cursive;
+ 
+    transform: rotate(354deg);
+
+    
+}
+
+.p5{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#about{
+    background-color: black;
+    padding: 25px;
+}
+
+
+.container{
+    color: grey;
+}
+
+
+.progress{
+    width: 100%;
+    color: #dc3545;
+  
+    
+}
+
+
+
+#creative{
+    background-color: black;
+    padding: 25px;
+}
+
+#resume{
+    background-color: black;
+    padding: 25px;
+}
+
+.lists{color: #00fbff;
+}
+
+
+
+#testimonials{
+    background-color: black;
+}
+
+.carousel-inner{
+}
+
+
+
+
+
+
+
+
+.navbar i{
+    font-size: 30px;
+    color: #dc3545;
+}
+
+
+.testinominees{
+    font-family: 'Great Vibes', cursive;
+ 
+    transform: rotate(354deg);
+
+}
+
+#projects{
+    background-color: black;
+    padding: 25px;
+
+}
+
+
+.img-fluid{
+    width: ;
+    height: ;
+}
+
+
+.staff {
+    position: relative;
+  }
+  
+  .project-links {
+    background: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.2) 0%,
+      rgba(0, 0, 0, 0) 100%
+    );
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    opacity: 0;
+    transition: all 0.3s linear;
+  }
+  
+  .staff:hover .project-links{
+    opacity: 1;
+  }
+
+#skills{
+    background-color: black;
+    padding: 25px;
+}
+
+
+
+
+
+
+
+
+#contact{
+    background-color: black; 
+    padding: 50px;
+}
+
+
+
+.send-btn{
+    background-color: black;
+}
+
+
+
+
+
+
+
+#footer{
+    background-color: #2D0800;
+    padding: 5px;
+}
+
+
+.up-arrow{color: white  ;
+    position: sticky;
+
+}
+
+
+.fa-brands{
+    color: #dc3545;
+}
+
+
+
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1.1rem 0 0;
+}
+
+.socials li{
+    margin: 0 17px;
+}
+
+.socials a{
+    text-decoration: none;
+    color: white;
+}
+
+.socials a i{
+    font-size: 3.7rem;
+    transition: color .4s ease;
+}
+
+.socials a:hover{
+    color: #00fbff;
+}
+
+
+
+/* USE FOR FOOTER CONTENT
+FOOTER{COLOR #00262D}
+*/
+
+
+
+.progress-bar{
+    position: relative;
+    font-family:  font-family: 'Roboto', sans-serif;;
+    color: #00fbff;
+    font-weight: 600;
+}
+
+
+
+  /* Icon hover FX */
+
+
+
+
+
+ .fa-facebook:hover{
+    color:rgb(66, 13, 13)  !important;
+    opacity: unset;
+ }
+
+ .fa-linkedin-in:hover{
+    color:rgb(66, 13, 13)  !important;
+    opacity: unset;
+ }
+
+ .fa-google-plus-g:hover{
+    color: rgb(66, 13, 13)  !important;
+    opacity: unset;
+ }
+
+ .fa-github:hover{
+    color:rgb(66, 13, 13) !important;
+    opacity: unset;
+ }
+
+ .fa-google:hover{
+    color:rgb(66, 13, 13) !important;
+    opacity: unset;
+ }
+
+
+ 
+ .fa-map-marker:hover{
+    color:rgb(66, 13, 13) !important;
+    opacity: unset;
+ }
+
+
+
+
+
+
+
